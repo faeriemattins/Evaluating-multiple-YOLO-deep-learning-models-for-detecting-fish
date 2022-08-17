@@ -1,0 +1,5 @@
+train: ../train/images
+val: ../valid/images
+
+nc: 15
+names: ['Dascyllus Reticulatus', 'Chaetodon Lununatus', 'Pempheris Vanicolensis', 'Dascyllus Aruanus', 'Plectrogly-Phidodon Dickii', 'Amphiprion Clarkii', 'Chaetodon Trifascialis', 'Acanthurus Nigrofuscus', 'Chromis Chrysura', 'Hemigumnus Malapterus', 'Myripristis Kuntee', 'Chaetodon Speculum', 'Abudefduf Vaigiensis', 'Neoglyphidodon Nigroris', 'Zebrasoma Scopas']
